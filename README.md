@@ -8,6 +8,7 @@ Hier finden Sie eine Sammlung meiner beruflichen und akademischen Errungenschaft
 
 - [Arbeitszeugnis/Zwischenzeugnis](Arbeitszeugnis_Zwischenzeugnis.pdf)
 - [Zertifikate](Certificates)
+- [Erledigte Projekte](Projekte)
 
 ## Erreichte Abzeichen
 
