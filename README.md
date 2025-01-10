@@ -7,6 +7,7 @@ Hier finden Sie eine Sammlung meiner beruflichen und akademischen Errungenschaft
 ## Verfügbare Zertifikate und Dokumente
 
 - [Arbeitszeugnis/Zwischenzeugnis](Arbeitszeugnis_Zwischenzeugnis.pdf)
+- [Zertifikate](Certificates)
 
 ## Erreichte Abzeichen
 
