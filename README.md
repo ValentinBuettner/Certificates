@@ -6,8 +6,8 @@ Hier finden Sie eine Sammlung meiner beruflichen und akademischen Errungenschaft
 
 ## Verfügbare Zertifikate und Dokumente
 
-- [Arbeitszeugnis/Zwischenzeugnis](Certificates/Arbeitszeugnis_Zwischenzeugnis.pdf)
+- [Arbeitszeugnis/Zwischenzeugnis](Vorstellung/Arbeitszeugnis_Zwischenzeugnis.pdf)
 
 ## Erreichte Abzeichen
 
-https://skillsoft.digitalbadges-eu.skillsoft.com/profile/eu-valentinbttner828344/wallet
+- https://skillsoft.digitalbadges-eu.skillsoft.com/profile/eu-valentinbttner828344/wallet
