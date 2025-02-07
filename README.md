@@ -67,9 +67,10 @@ Hier finden Sie eine Sammlung meiner beruflichen und akademischen Errungenschaft
 - [Erledigte Projekte](Projekte)
 
 ## Erreichte Abzeichen und relevante Zertifikate
-- [Certificates/Google Cybersecurity Certificate](Google Cybersecurity Certificate.pdf)
-- [SIEM Splunk Hands-On Guide](SIEM Splunk Hands-On Guide.pdf)
-- [Certified Ethical Hacker (v12)](Certified Ethical Hacking (v12).pdf)
+<div style="display: flex; gap: 10px;">
+  <img src="Certificates/SIEM Splunk Hands-On Guide.pdf" alt="SIEM Splunk Hands-On Guide" width="200" />
+  <img src="Certificates/Google Cybersecurity Certificate.pdf" alt="Google Cybersecurity Certificate" width="200" />
+</div>
 
 <div style="display: flex; gap: 10px;">
   <img src="Certificates/c7fb9695-aa1a-417c-8bbd-5085ba08b488.png" alt="Cyber Defense Analyst" width="200" />
