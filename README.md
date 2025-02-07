@@ -67,9 +67,10 @@ Hier finden Sie eine Sammlung meiner beruflichen und akademischen Errungenschaft
 
 ## Erreichte Abzeichen und relevante Zertifikate
 
-### Zertifikate als Links anzeigen
-- [SIEM Splunk Hands-On Guide](Certificates/SIEM_Splunk_Hands-On_Guide.pdf)
+### Relevante Zertifikate
 - [Google Cybersecurity Certificate](Certificates/Google_Cybersecurity_Certificate.pdf)
+- [SIEM Splunk Hands-On Guide](Certificates/SIEM_Splunk_Hands-On_Guide.pdf)
+- [Certified Ethical Hacking (v12)](Certificates/Certified Ethical Hacking (v12).pdf)
 
 ### Abzeichen
 <div style="display: flex; gap: 10px;">
