@@ -1,4 +1,4 @@
-# Valentin Büttner - Vorstellung 📄
+# Valentin Büttner - Vorstellung 📝
 
 ## Über mich
 Ich bin ein engagierter Telekommunikationsinformatik-Student mit Schwerpunkt auf Netzwerksicherheit, Informationssicherheit und Datenbankmanagementsystemen. Mit praktischer Erfahrung in der Automatisierungstechnik und fundierten Kenntnissen in der Softwareentwicklung suche ich neue Herausforderungen im Bereich IT-Sicherheit.
@@ -9,10 +9,10 @@ Ich bin ein engagierter Telekommunikationsinformatik-Student mit Schwerpunkt auf
 - Agile Softwareentwicklung  
 - MS Office Anwendungen  
 - Software Design  
-- Test Driven Development (TDD)
-- Cybersecurity
-- IT Security
-- Ethical Hacking
+- Test Driven Development (TDD)  
+- Cybersecurity  
+- IT Security  
+- Ethical Hacking  
 - **Sprachen:**  
   - Deutsch (Muttersprache)  
   - Englisch (verhandlungssicher)  
@@ -55,28 +55,30 @@ Ich bin ein engagierter Telekommunikationsinformatik-Student mit Schwerpunkt auf
 
 ---
 
+## Zertifikate & Leistungen 🌇🌟
 
-Zertifikate & Leistungen 📜✨
-
-Hier finden Sie eine Sammlung meiner beruflichen und akademischen Errungenschaften, die meinen Weg des lebenslangen Lernens dokumentieren. Jedes Zertifikat steht für erworbenes Wissen, Engagement und den Wunsch, mich kontinuierlich weiterzuentwickeln. 
+Hier finden Sie eine Sammlung meiner beruflichen und akademischen Errungenschaften, die meinen Weg des lebenslangen Lernens dokumentieren. Jedes Zertifikat steht für erworbenes Wissen, Engagement und den Wunsch, mich kontinuierlich weiterzuentwickeln.
 
 ## Verfügbare Zertifikate und Dokumente
 
 - [Arbeitszeugnis/Zwischenzeugnis](Arbeitszeugnis_Zwischenzeugnis.pdf)
-- [Zertifikate](Certificates)
-- [Erledigte Projekte](Projekte)
+- [Zertifikate](Certificates/)
+- [Erledigte Projekte](Projekte/)
 
 ## Erreichte Abzeichen und relevante Zertifikate
-<div style="display: flex; gap: 10px;">
-  <img src="Certificates/SIEM Splunk Hands-On Guide.pdf" alt="SIEM Splunk Hands-On Guide" width="200" />
-  <img src="Certificates/Google Cybersecurity Certificate.pdf" alt="Google Cybersecurity Certificate" width="200" />
-</div>
 
+### Zertifikate als Links anzeigen
+- [SIEM Splunk Hands-On Guide](Certificates/SIEM_Splunk_Hands-On_Guide.pdf)
+- [Google Cybersecurity Certificate](Certificates/Google_Cybersecurity_Certificate.pdf)
+
+### Abzeichen
 <div style="display: flex; gap: 10px;">
   <img src="Certificates/c7fb9695-aa1a-417c-8bbd-5085ba08b488.png" alt="Cyber Defense Analyst" width="200" />
   <img src="Certificates/e6a69f6f-2f44-4e43-8f23-b6ddc83b6a8b.png" alt="Basic: CEH" width="200" />
 </div>
 
+---
 
+## Profil & Digital Badges
 
-- https://skillsoft.digitalbadges-eu.skillsoft.com/profile/eu-valentinbttner828344/wallet
+- [Meine Skillsoft Digital Badges](https://skillsoft.digitalbadges-eu.skillsoft.com/profile/eu-valentinbttner828344/wallet)
