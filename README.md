@@ -9,7 +9,10 @@ Ich bin ein engagierter Telekommunikationsinformatik-Student mit Schwerpunkt auf
 - Agile Softwareentwicklung  
 - MS Office Anwendungen  
 - Software Design  
-- Test Driven Development (TDD)  
+- Test Driven Development (TDD)
+- Cybersecurity
+- IT Security
+- Ethical Hacking
 - **Sprachen:**  
   - Deutsch (Muttersprache)  
   - Englisch (verhandlungssicher)  
